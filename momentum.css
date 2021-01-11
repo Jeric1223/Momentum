@@ -72,7 +72,7 @@ ul{
   margin-top: 50px;
 }
 .js-toDoList > li {
-  font-size: 40px;
+  font-size: 25px;
 }
 .js-toDoList > li > button{
   background-color:transparent;
