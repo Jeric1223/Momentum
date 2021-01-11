@@ -60,7 +60,7 @@ ul{
   border-bottom: solid white 5px;
   width: 735px;
 }
-.js-toDoForm > input{
+.js-toDoForm > input{ 
   font-size: 43.7px;
   margin-top: 50px;
 }
