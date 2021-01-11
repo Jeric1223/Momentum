@@ -1,3 +1,4 @@
+
 const form = document.querySelector(".js-form")
 ,input = form.querySelector("input"),
 greeting = document.querySelector(".js-greetings");
@@ -24,7 +25,7 @@ function askForName(){
 function paintGreeting(text){
   form.classList.remove(SHOWING_CN);
   greeting.classList.add(SHOWING_CN);
-  greeting.innerHTML = `Hello ${text}`
+  greeting.innerHTML = `Hello ${text}!`;
 }
 
 function loadName(){
