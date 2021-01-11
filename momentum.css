@@ -72,12 +72,12 @@ ul{
   margin-top: 50px;
 }
 .js-toDoList > li {
-  font-size: 25px;
+  font-size: 30px;
 }
 .js-toDoList > li > button{
   background-color:transparent;
   border: none;
-  font-size: 40px;
+  font-size: 30px;
   outline: none;
   cursor: pointer;
 }
