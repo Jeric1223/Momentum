@@ -1,6 +1,6 @@
 # momentum
 
-크롬 앱에 있는 [momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=ko)을 기반으로 Vanilla JS를 사용하여서 만들었다.
+크롬 앱에 있는 [momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=ko)을 기반으로 Vanilla JS를 사용하여서 만들었습니다.
 
 ## Features
 
